@@ -1,7 +1,8 @@
 # NetflixDataAnalysis
 
-# Mini project for introduction into data manipulation using python
-# Use sample data to analyze most watched shows and create plots
+Mini project for introduction into data manipulation using python
+
+Use sample data to analyze most watched shows and create plots
 
 
 
